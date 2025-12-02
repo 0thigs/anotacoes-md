@@ -1,28 +1,28 @@
 # 👨‍💻 Thiago Martins
-> **Desenvolvedor Full-Stack | Estudante de Desenvolvimento de Software Multiplataforma (FATEC)**
+> Desenvolvedor Full-Stack | Estudante de Desenvolvimento de Software Multiplataforma (FATEC) | Estudante Alpha EdTEch
 >
-> 📍 São José dos Campos, SP | 🎂 19 anos
+> 📍 São José dos Campos, SP | 🎂 20 anos
 
-Bem-vindo ao meu espaço de anotações e portfólio. Aqui compartilho o que estou aprendendo na faculdade e em meus projetos pessoais.
+Bem-vindo ao meu espaço de anotações e portfólio. Aqui eu compartilho o que estou aprendendo na Alpha Edtech e em meus projetos pessoais.
 
-## 🚀 Sobre Mim
-Sou apaixonado por tecnologia e inovação. Atualmente, atuo como Desenvolvedor Full-Stack em duas empresas e sou fundador da **Ctrl Alt Del**, focada em soluções sob demanda.
+## Sobre Mim
+Sou apaixonado por tecnologia e inovação. Atualmente, atuo como Desenvolvedor Full-Stack em duas empresas.
 * **Interesses:** Linux Mint, Python, Docker, HTML e Robótica (Ex-competidor FRC internacional).
-* **Conquistas:** Medalhista de prata na OBA, Hackathon UNESP e participante do LALA (Latin American Leadership Academy).
-* **Projetos Recentes:** *Caronna* (App de caronas universitárias), *Gaia* (Monitoramento climático) e *Nanos Bananas* (UX Game).
+* **Conquistas:** Medalhista de prata na OBA, Hackathons e participante do LALA (Latin American Leadership Academy).
+* **Projetos Recentes:** *Caronna* (App de caronas universitárias), *Gaia* (Monitoramento climático).
 
 ---
 
-# 📚 Anotações de Estudo: Redes de Computadores
+# Anotações de Estudo: Redes de Computadores
 
-### 🌐 Conceitos Fundamentais
+### Conceitos Fundamentais
 Uma rede de computadores permite que dispositivos se comuniquem e compartilhem recursos (arquivos, impressoras, internet).
 * **Topologia:** É o "mapa" da rede.
     * *Estrela:* Conectada a um ponto central.
     * *Malha:* Alta redundância, mas complexa.
 * **Protocolos:** Regras que permitem a "conversa" padronizada entre dispositivos.
 
-### 🔢 Endereçamento IP e Sub-redes
+### Endereçamento IP e Sub-redes
 * **IPv4:** 4 números decimais (octetos). Ex: `192.168.0.1`. (Esgotando).
     * *Classe C Privada:* `192.168.0.0` a `192.168.255.255`.
 * **IPv6:** Nova geração, 128 bits, virtualmente ilimitado.
@@ -32,14 +32,14 @@ Uma rede de computadores permite que dispositivos se comuniquem e compartilhem r
     * `Porta 443`: HTTPS
     * `Porta 25`: SMTP
 
-### 📡 Tipos de Protocolos
+### Tipos de Protocolos
 | Categoria | Função | Exemplos |
 | :--- | :--- | :--- |
 | **Rede** | Encaminhar pacotes | IP |
 | **Transporte** | Gerenciar comunicação | **TCP** (Confiável, Web/Email)<br>**UDP** (Rápido, Streaming) |
 | **Aplicação** | Tarefas do usuário | **HTTP** (Web), **FTP** (Arquivos) |
 
-### 🌍 Evolução da Internet & Serviços Web
+### Evolução da Internet & Serviços Web
 * **História:** Da ARPANET (anos 60) à Web 3.0 (Web Semântica).
 * **APIs:** Regras para sistemas conversarem.
 * **Arquitetura:**
@@ -47,7 +47,7 @@ Uma rede de computadores permite que dispositivos se comuniquem e compartilhem r
     * **REST:** HTTP, leve, flexível (usado em apps modernos).
     * **Microsserviços:** Divide a aplicação em partes independentes.
 
-### 🔒 Segurança e Análise
+### Segurança e Análise
 * **Diagnóstico:** `Ping` (latência) e `Traceroute` (rota dos pacotes).
 * **Proteção:**
     * **SSL/TLS:** Criptografia de dados.
@@ -56,7 +56,7 @@ Uma rede de computadores permite que dispositivos se comuniquem e compartilhem r
 
 ---
 
-# 🐱 Git & GitHub: O Básico
+# Git & GitHub: O Básico
 
 Para manter este site e meus códigos organizados, utilizo Git e GitHub. Aqui estão os conceitos essenciais:
 
